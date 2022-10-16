@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245280045149",
+    "project_id": "flash-chat-487db",
+    "storage_bucket": "flash-chat-487db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245280045149:android:7ee151c6d7a377cb7cb5b4",
+        "android_client_info": {
+          "package_name": "co.RGElon.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245280045149-ajemn37a2i1vrgsii5ombl8ej4n44eb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGQAR1UPqcOnrgu-x0OoYlu7_GojwI19U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245280045149-ajemn37a2i1vrgsii5ombl8ej4n44eb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
