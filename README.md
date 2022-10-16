@@ -1,29 +1,16 @@
-# flutter-101
-Start from fundamentals, with projects, code snippets and fundamentals of flutter!
+# food_course
 
-## Code Snippets:
-- hello world
-```
-@override
-  Widget build(BuildContext context) {
-    return const MaterialApp(
-      home: Center(child: Text('Hello World')),
-    );
-  }
-```
+A new Flutter application.
 
-## Projects List
+## Getting Started
 
-- Project1
+This project is a starting point for a Flutter application.
 
-- Project2
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-## Contributing
-
-How to contribute?
-#### Snippets:
-Add code snippets to readme.md and make a pull request, If your snippet is reasonable and working then it will be accepted!
-
-#### Projects:
-Project should be added in directory **/projectname/proj_files**, and the project with hyperlink should be added to readme.md project list!
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
