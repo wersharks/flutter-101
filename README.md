@@ -1,3 +1,23 @@
+# flutter-101
+Start from fundamentals, with projects, code snippets and fundamentals of flutter!
+
+## Code Snippets:
+- hello world
+```
+@override
+  Widget build(BuildContext context) {
+    return const MaterialApp(
+      home: Center(child: Text('Hello World')),
+    );
+  }
+```
+
+## Projects List
+
+- Project1
+
+- Project2
+
 
 ## Contributing
 
