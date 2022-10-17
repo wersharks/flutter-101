@@ -18,6 +18,8 @@ Start from fundamentals, with projects, code snippets and fundamentals of flutte
 
 - Project2
 
+- Custom Clipper in Flutter [https://github.com/Anirban-Chand/custom-clippers-in-flutter.git]
+
 
 ## Contributing
 
