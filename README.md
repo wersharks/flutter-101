@@ -48,9 +48,9 @@ https://github.com/
 
 ## Projects List
 
-- Project1
+- Flash chat app in Flutter (https://github.com/wersharks/flutter-101/tree/main/flash_chat)
 
-- Project2
+- Fingerprint app in Flutter (https://github.com/wersharks/flutter-101/tree/main/fingerPrint)
 
 - Custom Clipper in Flutter [https://github.com/Anirban-Chand/custom-clippers-in-flutter.git]
 
