@@ -1,4 +1,5 @@
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flash_chat/Component/snackbar.dart';
 import 'package:flash_chat/screens/chat_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flash_chat/Component/our_button.dart';
@@ -81,6 +82,19 @@ class _LoginScreenState extends State<LoginScreen> {
                       });
                     }
                   } catch (e) {
+                    print('hi');
+                    if (e.toString().contains('invalid')) {
+                       setState(() {
+                        status = false;
+                      });
+                      showSnackBar('Entered password is invalid', context);
+                    }
+                    if (e.toString().contains('no user')) {
+                       setState(() {
+                        status = false;
+                      });
+                      showSnackBar('User does not exist', context);
+                    }
                     print(e);
                   }
                 },
