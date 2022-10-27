@@ -47,6 +47,9 @@ https://github.com/
 ```
 
 ## Projects List
+- Destiny app (https://github.com/wersharks/flutter-101/tree/main/destini-app)
+
+- Todolist (https://github.com/wersharks/flutter-101/tree/main/todolist)
 
 - Flash chat app in Flutter (https://github.com/wersharks/flutter-101/tree/main/flash_chat)
 
