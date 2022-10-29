@@ -1,4 +1,5 @@
-# flutter-101
+# <img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" style="float: left;" height="40"/> flutter-101
+          
 Start from fundamentals, with projects, code snippets and fundamentals of flutter!
 
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
@@ -13,19 +14,25 @@ Start from fundamentals, with projects, code snippets and fundamentals of flutte
 ## How to contribute 😃
 
 
-> [Fork this repository](https://help.github.com/articles/fork-a-repo/)
+1. [Fork this repository](https://help.github.com/articles/fork-a-repo/)
 
->  Clone the forked repository from your account
+2. Clone the forked repository from your account
+   ``` sh
+   git clone https://github.com/<your username>/flutter-101
+   ```
+3. Add your code file to the respective folder.
 
-> Add your code file to the respective folder.
+4. Commit your changes with an appropriate message.
+   ``` sh
+   git add "<files_you_have_changed>"
+   git commit -m "<your_commit_message>"
+   git push origin main
+   ```
+5. [Create a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
-> Commit your changes with an appropriate message.
 
-> [Create a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+Follow the details in [CONTRIBUTING.md](https://github.com/wersharks/flutter-101/blob/main/CONTRIBUTING.md) for detailed info on how to add more filters to existing projects.
 
-
-Follow the details in CONTRIBUTING.MD for detailed info on how to add more filters to existing projects
-https://github.com/
 ## Our Contributors 
 <a href="https://github.com/wersharks/innovative-apps/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=wersharks/flutter-101" />
